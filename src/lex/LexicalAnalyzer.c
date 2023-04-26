@@ -87,10 +87,7 @@ int superLetterOrDigit(char ch){
 	else return 0;
 }
 
-/*
-- Reference : http://www.hackerschool.org/HS_Boards/view.php?id=QNA_programming&no=2983
-- Modified by KeonHeeLee
-*/
+
 int getIntNum(char firstCharacter) {
 	int num = 0;
 	char ch;
