@@ -1,12 +1,12 @@
-# MiniC-Compiler
+# Mini-C-Compiler
 
- MiniC Compiler use flex & bison/yacc and C.
+ Mini C Compiler use flex & bison/yacc and C.
 
 ## The component of Compiler 
 
 1. [Ucode interpreter](./src/ucode)
 2. [Lexical Analyzer](./src/lex)
-   - reference: [a simple game based on finite automata](https://github.com/KeonHeeLee/simple-pocket-mon-game)
+   - Refering: [A Simple Game based on Finite Automata](https://github.com/Utkarsh-Saboo/Mini-C-Compiler/tree/main/simple-pocket-mon-game-master/simple-pocket-mon-game-master)
 3. [Parser](./src/parser)
 4. [Intermediate Language Generator](./src/icg)
 
