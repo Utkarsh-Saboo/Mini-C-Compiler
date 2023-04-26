@@ -48,10 +48,10 @@ $ ./ucodei <ICG file(.uco)>
 ## Demo Snapshots
 
 1. **[Palindrome](./test/pal.mc) (pal.mc)**
-<img src="[./image/01.png](https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/img/01.png)">
+<img src="https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/img/01.png">
 
 2. **[Bubble Sort](./test/bubble.mc) (bubble.mc)**
-<img src="[./image/04.png](https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/img/04.png)">
+<img src="https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/img/04.png">
 
 3. **[Factorial](./test/factorial.mc) (factorial.mc)**
 <img src="https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/img/03.png">
