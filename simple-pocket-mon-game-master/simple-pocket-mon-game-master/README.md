@@ -28,14 +28,6 @@ $ pocketmon.exe
 <img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/03.PNG">
 
 
-## Demo Screenshot
-
-<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/06.PNG">
-<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/07.PNG">
-
-- demo video : https://www.youtube.com/watch?v=v5oMRYZenIg
-
-
 ## Result
 
 - FA(Finite Automata) is very useful to develop NPC in games.
