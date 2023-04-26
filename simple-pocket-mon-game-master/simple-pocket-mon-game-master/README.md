@@ -7,7 +7,7 @@ This repository is made for compiler lecture's report, but I want to refer this 
 ## How to use
 
 - In window, input the below command. <br>
-- Or download [this file](https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/pocketmon.exe).
+- Or download [this file](https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/simple-pocket-mon-game-master/simple-pocket-mon-game-master/pocketmon.exe).
 ```
 $ pocketmon.exe
 ```
@@ -15,17 +15,18 @@ $ pocketmon.exe
 
 ### Note!
 
-- This repo seperate [cpp files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/src) and [header files](https://github.com/KeonHeeLee/simple-pocket-mon-game/tree/master/include).
 - If you want to compile this program, in visual studio(window), you must collect this files in one directory.
 
 
 ## Finite Automata(FA) Model
 
 - NFA (Non-deterministric Finite Automata) Model
-<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/02.PNG">
+<img src="https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/simple-pocket-mon-game-master/simple-pocket-mon-game-master/img/02.PNG">
+
 
 - DFA (Deterministric Finite Automata) Model
-<img src="https://github.com/KeonHeeLee/simple-pocket-mon-game/blob/master/img/03.PNG">
+<img src="https://github.com/Utkarsh-Saboo/Mini-C-Compiler/blob/main/simple-pocket-mon-game-master/simple-pocket-mon-game-master/img/03.PNG">
+
 
 
 ## Result
