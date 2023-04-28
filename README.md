@@ -1,7 +1,7 @@
-# Title: Mini-C-Compiler
-# Compiler-Design Mini Project
+# Compiler-Design Mini Project (Mini-C-Compiler)
 
-# Execution 
+
+## Execution 
 - call the folder in Command Prompt by using cd command with its location.
 - Run the Folder using bash run.sh in Command Prompt
 - For executing each case, check run.sh how to execute single file
